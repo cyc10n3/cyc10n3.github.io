@@ -6,7 +6,7 @@ const toRelativeURL = (input) => {
     const relativePathWithQueryParams = url.pathname + url.search;
     return relativePathWithQueryParams;
   } catch (error) {
-    return "/";
+    return "./";
   }
 };
 
