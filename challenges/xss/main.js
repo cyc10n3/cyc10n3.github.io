@@ -11,7 +11,7 @@ const toRelativeURL = (input) => {
 };
 
 const urlParams = new URLSearchParams(window.location.search);
-const originUrl = urlParams.get('originUrl');
+const originUrl = urlParams.get("originUrl");
 
 if (originUrl) {
   const relativeURL = toRelativeURL(originUrl);
