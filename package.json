@@ -10,7 +10,7 @@
     "build:production": "NODE_ENV=production npm run build:analyze",
     "build:performance": "npm run build && node scripts/performance-monitor.js",
     "preview": "vite preview",
-    "deploy:github": "npm run build:github && gh-pages -d dist -r https://github.com/wheltd/wheltd.github.io.git",
+    "deploy:github": "npm run build:github && gh-pages -d dist -r https://github.com/cyc10n3/cyc10n3.github.io.git",
     "test": "jest",
     "test:watch": "jest --watch",
     "test:coverage": "jest --coverage",

@@ -17,7 +17,7 @@ if [ $? -eq 0 ]; then
     
     if [ $? -eq 0 ]; then
         echo "🎉 Deployment successful!"
-        echo "🌍 Your site will be available at: https://wheltd.github.io/"
+        echo "🌍 Your site will be available at: https://cyc10n3.github.io/"
         echo "⏰ It may take a few minutes for changes to appear."
     else
         echo "❌ Deployment failed!"

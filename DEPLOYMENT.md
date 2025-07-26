@@ -2,7 +2,7 @@
 
 ## GitHub Pages Deployment
 
-This project is configured to deploy to GitHub Pages at: https://wheltd.github.io/
+This project is configured to deploy to GitHub Pages at: https://cyc10n3.github.io/
 
 ### Automatic Deployment (Recommended)
 
@@ -10,7 +10,7 @@ The site automatically deploys when you push to the main branch using GitHub Act
 
 1. Push your changes to the main branch
 2. GitHub Actions will automatically build and deploy
-3. Site will be available at https://wheltd.github.io/ within a few minutes
+3. Site will be available at https://cyc10n3.github.io/ within a few minutes
 
 ### Manual Deployment
 
@@ -28,7 +28,7 @@ npm run deploy:github
 ### Prerequisites
 
 1. **GitHub Repository Setup:**
-   - Repository name should be: `wheltd.github.io`
+   - Repository name should be: `cyc10n3.github.io`
    - Repository should be public
    - GitHub Pages should be enabled in repository settings
 
@@ -59,7 +59,7 @@ npm run deploy:github
 **Site Not Loading:**
 - Wait 5-10 minutes after deployment
 - Check GitHub Pages settings in repository
-- Verify the site URL: https://wheltd.github.io/
+- Verify the site URL: https://cyc10n3.github.io/
 
 ### Custom Domain (Optional)
 
