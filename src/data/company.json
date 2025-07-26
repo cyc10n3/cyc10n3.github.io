@@ -1,0 +1,166 @@
+{
+  "name": "Wellhead Equipment Engineers Pvt. Ltd.",
+  "tagline": "Fueling the Future, Powering Progress with Oil and Gas",
+  "description": "A leading and innovative provider of cutting-edge oil and gas equipment solutions with unwavering dedication to excellence and innovation in the energy industry.",
+  "mission": "To lead the oil and gas exploration industry by consistently delivering safe, efficient, and responsible exploration activities while maximizing the value of our natural resources.",
+  "vision": "To be the foremost global leader in oil and gas exploration, setting the standard for excellence in exploration practices, environmental stewardship, and operational efficiency.",
+  "values": [
+    "Visionary Leadership - The art of inspiring and guiding others towards a compelling future through innovative and forward-thinking strategies",
+    "Expansive Network - A large-scale interconnected system, encompassing extensive reach and connectivity",
+    "Technological Innovation - The creation and application of new or improved technologies that drive progress and advancements",
+    "Sustainability and Responsibility - Fostering a balanced and ethical approach to ensure the well-being of future generations and the planet",
+    "Professional Growth and Development - The continuous process of improving skills, knowledge, and abilities to enhance career prospects"
+  ],
+  "founded": 2014,
+  "headquarters": {
+    "street": "Q-3055, Akshar Business Park, Koperkhairane Road, Sector 25",
+    "city": "Vashi, Navi Mumbai",
+    "state": "Maharashtra",
+    "postalCode": "400 703",
+    "country": "India"
+  },
+  "offices": [
+    {
+      "id": "headquarters",
+      "name": "Registered Office",
+      "type": "headquarters",
+      "address": {
+        "street": "Q-3055, Akshar Business Park, Koperkhairane Road, Sector 25",
+        "city": "Vashi, Navi Mumbai",
+        "state": "Maharashtra",
+        "postalCode": "400 703",
+        "country": "India"
+      },
+      "contact": {
+        "email": "info@wheltd.com"
+      },
+      "services": ["Corporate headquarters", "Administration"],
+      "description": "Main corporate headquarters and administration center"
+    },
+    {
+      "id": "manufacturing-vadodara",
+      "name": "Manufacturing Unit - Vadodara",
+      "type": "manufacturing",
+      "address": {
+        "street": "Survey No.300, Block No. 140, Por-Itola Road, Nr. Subhagya Hall",
+        "city": "Village-Por, Tal. & Dist. Vadodara",
+        "state": "Gujarat",
+        "postalCode": "391243",
+        "country": "India"
+      },
+      "contact": {
+        "email": "contact@wheltd.com"
+      },
+      "services": ["Manufacturing", "Production facility"],
+      "description": "Primary manufacturing and production facility"
+    },
+    {
+      "id": "base-western-india",
+      "name": "Base - Western India",
+      "type": "regional",
+      "address": {
+        "street": "Near radha swami satsang bhawan, Uttralai road",
+        "city": "Barmer",
+        "state": "Rajasthan",
+        "postalCode": "344001",
+        "country": "India"
+      },
+      "contact": {
+        "email": "operations@wheltd.com"
+      },
+      "services": ["Regional operations", "Field services"],
+      "description": "Regional operations and field services center"
+    },
+    {
+      "id": "uae-office",
+      "name": "Marketing Office - UAE",
+      "type": "sales",
+      "address": {
+        "street": "Office G04, Owned by AHMED Ghuloom Hussain Alkhoori",
+        "city": "Naif, Deira Dubai",
+        "state": "Dubai",
+        "postalCode": "",
+        "country": "UAE"
+      },
+      "contact": {
+        "email": "info@wellhead.ae"
+      },
+      "services": ["Middle East sales", "Marketing"],
+      "description": "Middle East sales and marketing office"
+    }
+  ],
+  "certifications": [
+    {
+      "id": "asme-u-stamp",
+      "name": "ASME 'U' STAMP",
+      "issuer": "ASME",
+      "image": "/assets/images/asme-u-stamp.jpg",
+      "description": "Authorizes us to manufacture pressure vessels in accordance with ASME Boiler and Pressure Vessel Code, ensuring highest safety and quality standards.",
+      "category": "Manufacturing"
+    },
+    {
+      "id": "r-stamp",
+      "name": "R STAMP",
+      "issuer": "ASME",
+      "image": "/assets/images/r-stamp.jpg",
+      "description": "Authorizes us to perform repairs and alterations on pressure vessels and boilers, demonstrating our capability to maintain critical equipment.",
+      "category": "Repair & Maintenance"
+    },
+    {
+      "id": "iso-9001-2015",
+      "name": "ISO 9001:2015",
+      "issuer": "ISO",
+      "image": "/assets/images/iso-9001-2015.webp",
+      "description": "Demonstrates our commitment to quality management systems, ensuring consistent products and services that meet customer and regulatory requirements.",
+      "category": "Quality Management"
+    },
+    {
+      "id": "iso-14001-2015",
+      "name": "ISO 14001:2015",
+      "issuer": "ISO",
+      "image": "/assets/images/iso-14001-2015.jpg",
+      "description": "Environmental management system certification demonstrating our commitment to environmental responsibility and minimizing environmental impact.",
+      "category": "Environmental Management"
+    },
+    {
+      "id": "iso-45001-2018",
+      "name": "ISO 45001:2018",
+      "issuer": "ISO",
+      "image": "/assets/images/iso-45001-2018.jpg",
+      "description": "Occupational health and safety management system certification demonstrating our commitment to providing a safe and healthy workplace for all.",
+      "category": "Health & Safety"
+    }
+  ],
+  "socialMedia": {
+    "linkedin": "https://www.linkedin.com/company/wellhead-equipment-engineers-pvt-ltd/",
+    "twitter": "",
+    "facebook": "",
+    "youtube": ""
+  },
+  "leadership": [],
+  "stats": {
+    "yearsOfExperience": 10,
+    "projectsCompleted": 500,
+    "clientsSatisfied": 100,
+    "countriesServed": 15,
+    "employeeCount": "100+"
+  },
+  "industries": [
+    "Oil and Gas Exploration",
+    "Upstream Operations",
+    "Midstream Operations",
+    "Downstream Operations",
+    "Petrochemicals",
+    "Energy Services"
+  ],
+  "capabilities": [
+    "Surface Welltest Equipment",
+    "Sand Management Systems",
+    "Flow Line Equipment",
+    "Pressure Vessels",
+    "Engineering Design",
+    "Fabrication Services",
+    "Equipment Rental",
+    "Maintenance & Repair"
+  ]
+}

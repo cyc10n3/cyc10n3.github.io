@@ -1,0 +1,117 @@
+[
+  {
+    "id": "asme-u-stamp",
+    "name": "ASME 'U' STAMP",
+    "issuer": "ASME (American Society of Mechanical Engineers)",
+    "number": "",
+    "validUntil": null,
+    "image": "/assets/images/asme-u-stamp.jpg",
+    "description": "The ASME 'U' Stamp authorizes us to manufacture pressure vessels in accordance with ASME Boiler and Pressure Vessel Code, ensuring the highest safety and quality standards in pressure vessel manufacturing.",
+    "category": "Manufacturing Authorization",
+    "features": [
+      "Pressure vessel manufacturing authorization",
+      "ASME Code compliance",
+      "Quality assurance systems",
+      "Regular audits and inspections"
+    ],
+    "scope": "Pressure vessel manufacturing according to ASME Boiler and Pressure Vessel Code Section VIII",
+    "benefits": [
+      "Ensures highest safety standards",
+      "International recognition",
+      "Quality assurance compliance",
+      "Customer confidence"
+    ]
+  },
+  {
+    "id": "r-stamp",
+    "name": "R STAMP",
+    "issuer": "ASME (American Society of Mechanical Engineers)",
+    "number": "",
+    "validUntil": null,
+    "image": "/assets/images/r-stamp.jpg",
+    "description": "The R Stamp authorizes us to perform repairs and alterations on pressure vessels and boilers, demonstrating our capability to maintain and modify critical equipment safely and effectively.",
+    "category": "Repair & Alteration Authorization",
+    "features": [
+      "Pressure vessel repair authorization",
+      "Alteration and modification services",
+      "Qualified repair procedures",
+      "Certified welding and inspection"
+    ],
+    "scope": "Repair and alteration of pressure vessels and boilers according to ASME standards",
+    "benefits": [
+      "Equipment lifecycle extension",
+      "Cost-effective maintenance",
+      "Compliance with safety standards",
+      "Qualified repair procedures"
+    ]
+  },
+  {
+    "id": "iso-9001-2015",
+    "name": "ISO 9001:2015",
+    "issuer": "International Organization for Standardization (ISO)",
+    "number": "",
+    "validUntil": null,
+    "image": "/assets/images/iso-9001-2015.webp",
+    "description": "ISO 9001:2015 certification demonstrates our commitment to quality management systems, ensuring consistent products and services that meet customer and regulatory requirements through continuous improvement processes.",
+    "category": "Quality Management System",
+    "features": [
+      "Quality management system",
+      "Customer satisfaction focus",
+      "Continuous improvement processes",
+      "Risk-based thinking approach"
+    ],
+    "scope": "Quality management system for design, manufacturing, and supply of oil and gas equipment",
+    "benefits": [
+      "Consistent product quality",
+      "Customer satisfaction",
+      "Process efficiency",
+      "Continuous improvement"
+    ]
+  },
+  {
+    "id": "iso-14001-2015",
+    "name": "ISO 14001:2015",
+    "issuer": "International Organization for Standardization (ISO)",
+    "number": "",
+    "validUntil": null,
+    "image": "/assets/images/iso-14001-2015.jpg",
+    "description": "ISO 14001:2015 environmental management system certification demonstrates our commitment to environmental responsibility and minimizing environmental impact through systematic environmental management practices.",
+    "category": "Environmental Management System",
+    "features": [
+      "Environmental management system",
+      "Environmental impact reduction",
+      "Compliance with environmental regulations",
+      "Sustainable business practices"
+    ],
+    "scope": "Environmental management system for manufacturing and service operations",
+    "benefits": [
+      "Environmental protection",
+      "Regulatory compliance",
+      "Resource efficiency",
+      "Sustainable operations"
+    ]
+  },
+  {
+    "id": "iso-45001-2018",
+    "name": "ISO 45001:2018",
+    "issuer": "International Organization for Standardization (ISO)",
+    "number": "",
+    "validUntil": null,
+    "image": "/assets/images/iso-45001-2018.jpg",
+    "description": "ISO 45001:2018 occupational health and safety management system certification demonstrates our commitment to providing a safe and healthy workplace for all employees, contractors, and visitors.",
+    "category": "Occupational Health & Safety Management",
+    "features": [
+      "Occupational health and safety management",
+      "Workplace hazard identification and control",
+      "Employee safety training programs",
+      "Incident prevention and investigation"
+    ],
+    "scope": "Occupational health and safety management system for all operations",
+    "benefits": [
+      "Employee safety and health",
+      "Accident prevention",
+      "Legal compliance",
+      "Improved workplace culture"
+    ]
+  }
+]

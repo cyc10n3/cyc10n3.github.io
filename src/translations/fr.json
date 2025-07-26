@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "products": "Produits",
+    "services": "Services",
+    "certification": "Certification",
+    "careers": "Carrières",
+    "hsePolicy": "Politique HSE",
+    "contact": "Contact"
+  },
+  "common": {
+    "readMore": "Lire la suite",
+    "learnMore": "En savoir plus",
+    "getQuote": "Obtenir un devis",
+    "contactUs": "Nous contacter",
+    "viewAll": "Voir tout",
+    "download": "Télécharger",
+    "apply": "Postuler",
+    "submit": "Soumettre",
+    "close": "Fermer",
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "success": "Succès",
+    "requestQuote": "Demander un devis",
+    "downloadBrochure": "Télécharger la brochure",
+    "requestConsultation": "Demander une consultation"
+  },
+  "home": {
+    "hero": {
+      "title": "Alimenter l'avenir, propulser le progrès avec le pétrole et le gaz",
+      "description": "Un fournisseur leader et innovant de solutions d'équipements pétroliers et gaziers de pointe avec un dévouement inébranlable à l'excellence et à l'innovation dans l'industrie énergétique.",
+      "viewProducts": "Voir les produits",
+      "getQuote": "Obtenir un devis"
+    },
+    "services": {
+      "title": "Nos services principaux",
+      "subtitle": "Solutions complètes pour l'industrie pétrolière et gazière"
+    },
+    "about": {
+      "title": "Années d'excellence industrielle",
+      "description": "Wellhead Equipment Engineers Pvt. Ltd. sert l'industrie pétrolière et gazière avec des solutions innovantes et une qualité sans compromis.",
+      "learnAboutUs": "En savoir plus sur nous"
+    },
+    "clients": {
+      "title": "Approuvé par les leaders de l'industrie",
+      "subtitle": "Au service des grandes compagnies pétrolières et gazières du monde entier"
+    },
+    "cta": {
+      "title": "Prêt à commencer ?",
+      "description": "Contactez-nous aujourd'hui pour un devis personnalisé pour votre prochain projet",
+      "requestQuote": "Demander un devis"
+    }
+  },
+  "about": {
+    "title": "À propos de nous",
+    "mission": "Notre mission",
+    "vision": "Notre vision",
+    "values": "Nos valeurs",
+    "certifications": "Certifications"
+  },
+  "products": {
+    "title": "Produits",
+    "allProducts": "Tous les produits",
+    "categories": "Catégories",
+    "specifications": "Spécifications"
+  },
+  "services": {
+    "title": "Services",
+    "allServices": "Tous les services",
+    "serviceOverview": "Aperçu du service",
+    "processTimeline": "Processus et calendrier",
+    "equipmentTools": "Équipements et outils"
+  },
+  "careers": {
+    "title": "Carrières",
+    "applyNow": "Postuler maintenant",
+    "submitApplication": "Soumettre une candidature",
+    "contactHR": "Contacter les RH",
+    "lifeAtWellhead": "La vie chez Wellhead"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "ourCommitment": "Notre engagement envers l'excellence"
+  },
+  "contact": {
+    "title": "Nous contacter",
+    "getInTouch": "Entrer en contact",
+    "sendMessage": "Envoyer un message",
+    "officeLocations": "Emplacements des bureaux"
+  },
+  "footer": {
+    "quickLinks": "Liens rapides",
+    "contactInfo": "Informations de contact",
+    "followUs": "Suivez-nous",
+    "allRightsReserved": "Tous droits réservés."
+  }
+}

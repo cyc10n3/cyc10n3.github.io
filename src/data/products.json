@@ -1,0 +1,331 @@
+[
+  {
+    "id": "3-phase-separator",
+    "name": "3 Phase Separator",
+    "description": "Instrumented vessel that separates well effluent into three phases—oil, gas, and water—for well testing.",
+    "longDescription": "The 3 Phase Separator is a critical component in well testing operations, designed to efficiently separate well effluent into oil, gas, and water phases. This horizontal separator features advanced instrumentation for accurate measurement and monitoring of each phase.",
+    "category": "pressure-vessels",
+    "subcategory": "separators",
+    "images": [
+      {
+        "id": "3ps-1",
+        "url": "/assets/images/3-phase-separator.webp",
+        "alt": "3 Phase Separator",
+        "isPrimary": true,
+        "order": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Phase Configuration",
+        "value": "3 Phase Horizontal",
+        "category": "Design"
+      },
+      {
+        "name": "Gas Flow Rate",
+        "value": "5 to 60",
+        "unit": "MMSCFD",
+        "category": "Performance"
+      },
+      {
+        "name": "Liquid Flow Rate",
+        "value": "16000",
+        "unit": "BPD",
+        "category": "Performance"
+      },
+      {
+        "name": "Test Pressure",
+        "value": "2150",
+        "unit": "PSI",
+        "category": "Pressure"
+      },
+      {
+        "name": "Design Code",
+        "value": "ASME Sec VIII Div-1",
+        "category": "Standards"
+      }
+    ],
+    "features": [
+      "High efficiency three-phase separation",
+      "Advanced instrumentation and controls",
+      "ASME certified construction",
+      "Suitable for well testing operations",
+      "Horizontal configuration for optimal separation"
+    ],
+    "applications": [
+      "Well testing operations",
+      "Production testing",
+      "Flow measurement",
+      "Phase separation analysis"
+    ],
+    "certifications": ["ASME Sec VIII Div-1"],
+    "documents": [],
+    "relatedProducts": ["surge-tank", "knockout-drum"],
+    "featured": true,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "surge-tank",
+    "name": "Surge Tank",
+    "description": "Pressurized vessel used to measure liquid flow rate and obtain accurate measurement of shrinkage and meter factor.",
+    "longDescription": "The Surge Tank is a dual-compartment pressurized vessel designed for accurate liquid flow measurement. It provides precise measurement of shrinkage and meter factor, essential for well testing operations.",
+    "category": "pressure-vessels",
+    "subcategory": "tanks",
+    "images": [
+      {
+        "id": "st-1",
+        "url": "/assets/images/surge-tank-1.webp",
+        "alt": "Surge Tank",
+        "isPrimary": true,
+        "order": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Capacity",
+        "value": "100 BBL (Dual Compartment)",
+        "category": "Design"
+      },
+      {
+        "name": "Operating Pressure",
+        "value": "150",
+        "unit": "PSI",
+        "category": "Pressure"
+      },
+      {
+        "name": "Temperature Range",
+        "value": "-20°F to 212°F",
+        "category": "Temperature"
+      },
+      {
+        "name": "Service",
+        "value": "H2S (NACE MR-0175)",
+        "category": "Service"
+      },
+      {
+        "name": "Design Standard",
+        "value": "As per ASME Div-1",
+        "category": "Standards"
+      }
+    ],
+    "features": [
+      "Dual compartment design",
+      "H2S service capability",
+      "NACE MR-0175 compliant",
+      "Accurate flow measurement",
+      "ASME certified construction"
+    ],
+    "applications": [
+      "Liquid flow measurement",
+      "Well testing",
+      "Shrinkage measurement",
+      "Meter factor determination"
+    ],
+    "certifications": ["ASME Div-1", "NACE MR-0175"],
+    "documents": [],
+    "relatedProducts": ["3-phase-separator", "knockout-drum"],
+    "featured": true,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "sand-catcher",
+    "name": "Sand Catcher",
+    "description": "Captures 80-90% of sand particles in initial separation stages with very low pressure drop.",
+    "longDescription": "The Sand Catcher is designed to capture large amounts of sand during well opening or sluggish flow conditions. It provides 80-90% sand capture efficiency in the initial separation stages with minimal pressure drop.",
+    "category": "sand-management",
+    "subcategory": "catchers",
+    "images": [
+      {
+        "id": "sc-1",
+        "url": "/assets/images/sand-catcher.webp",
+        "alt": "Sand Catcher",
+        "isPrimary": true,
+        "order": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Max Working Pressure",
+        "value": "10,000",
+        "unit": "PSI",
+        "category": "Pressure"
+      },
+      {
+        "name": "Flow Rate",
+        "value": "Gas 60",
+        "unit": "MMSCFD",
+        "category": "Performance"
+      },
+      {
+        "name": "Service",
+        "value": "H2S NACE MR-0175",
+        "category": "Service"
+      },
+      {
+        "name": "Sand Volume Capacity",
+        "value": "103",
+        "unit": "liter",
+        "category": "Capacity"
+      },
+      {
+        "name": "Vessel Design",
+        "value": "API-6A, ASME-SC-VIII Div-2",
+        "category": "Standards"
+      }
+    ],
+    "features": [
+      "80-90% sand capture efficiency",
+      "Very low pressure drop",
+      "H2S service capability",
+      "High pressure rating",
+      "API-6A compliant design"
+    ],
+    "applications": [
+      "Well opening operations",
+      "Sand removal jobs",
+      "Well cleanup",
+      "Production testing"
+    ],
+    "certifications": ["API-6A", "ASME-SC-VIII Div-2", "NACE MR-0175"],
+    "documents": [],
+    "relatedProducts": ["dual-pot-sand-filter", "plug-catcher"],
+    "featured": true,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "dual-pot-sand-filter",
+    "name": "Dual Pot Sand Filter",
+    "description": "Removes sand and solid particles from effluent to prevent erosion of downstream equipment.",
+    "longDescription": "The Dual Pot Sand Filter is designed to remove sand and solid particles from well effluent, protecting downstream equipment from erosion. Features dual vessel configuration for continuous operation.",
+    "category": "sand-management",
+    "subcategory": "filters",
+    "images": [
+      {
+        "id": "dpsf-1",
+        "url": "/assets/images/dual-pot-sand-filter-1.webp",
+        "alt": "Dual Pot Sand Filter",
+        "isPrimary": true,
+        "order": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Working Pressure",
+        "value": "15,000",
+        "unit": "PSI",
+        "category": "Pressure"
+      },
+      {
+        "name": "Filter Mesh Size",
+        "value": "200",
+        "unit": "Microns",
+        "category": "Filtration"
+      },
+      {
+        "name": "Holding Capacity",
+        "value": "70 litre per vessel",
+        "category": "Capacity"
+      },
+      {
+        "name": "Service",
+        "value": "H2S (Sour Service)",
+        "category": "Service"
+      },
+      {
+        "name": "MOC",
+        "value": "Forged AISI 4130",
+        "category": "Material"
+      }
+    ],
+    "features": [
+      "Dual pot configuration",
+      "200 micron filtration",
+      "H2S service capability",
+      "High pressure rating",
+      "Forged construction"
+    ],
+    "applications": [
+      "Sand filtration",
+      "Equipment protection",
+      "Well completion",
+      "Production operations"
+    ],
+    "certifications": ["ASME", "API-6A"],
+    "documents": [],
+    "relatedProducts": ["sand-catcher", "plug-catcher"],
+    "featured": true,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "gate-valve",
+    "name": "Gate Valve",
+    "description": "High-pressure gate valves designed and manufactured as per API-6A standards for critical applications.",
+    "longDescription": "High-pressure gate valves engineered for critical oil and gas applications. Manufactured to API-6A standards with options for sour service and various pressure ratings.",
+    "category": "flow-line",
+    "subcategory": "valves",
+    "images": [
+      {
+        "id": "gv-1",
+        "url": "/assets/images/gate-valve-1.webp",
+        "alt": "Gate Valve",
+        "isPrimary": true,
+        "order": 1
+      }
+    ],
+    "specifications": [
+      {
+        "name": "Size Range",
+        "value": "2-1/16\" to 4-1/16\"",
+        "category": "Dimensions"
+      },
+      {
+        "name": "Pressure Rating",
+        "value": "5000 PSI to 15000 PSI",
+        "category": "Pressure"
+      },
+      {
+        "name": "Service",
+        "value": "Sour, H2S or Standard",
+        "category": "Service"
+      },
+      {
+        "name": "Ring Groove",
+        "value": "SS or Inconel-625 Lined or without Cladding",
+        "category": "Material"
+      },
+      {
+        "name": "Design Standard",
+        "value": "API-6A",
+        "category": "Standards"
+      }
+    ],
+    "features": [
+      "API-6A compliant design",
+      "Multiple pressure ratings",
+      "Sour service capability",
+      "Various ring groove options",
+      "High-quality construction"
+    ],
+    "applications": [
+      "Flow line systems",
+      "Wellhead applications",
+      "Pressure control",
+      "Isolation services"
+    ],
+    "certifications": ["API-6A"],
+    "documents": [],
+    "relatedProducts": ["plug-valve", "choke-valve"],
+    "featured": false,
+    "status": "active",
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

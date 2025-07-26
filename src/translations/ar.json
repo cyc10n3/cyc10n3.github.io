@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "الرئيسية",
+    "about": "حولنا",
+    "products": "المنتجات",
+    "services": "الخدمات",
+    "certification": "الشهادات",
+    "careers": "الوظائف",
+    "hsePolicy": "سياسة الصحة والسلامة والبيئة",
+    "contact": "اتصل بنا"
+  },
+  "common": {
+    "readMore": "اقرأ المزيد",
+    "learnMore": "تعلم المزيد",
+    "getQuote": "احصل على عرض سعر",
+    "contactUs": "اتصل بنا",
+    "viewAll": "عرض الكل",
+    "download": "تحميل",
+    "apply": "تقدم بطلب",
+    "submit": "إرسال",
+    "close": "إغلاق",
+    "loading": "جاري التحميل...",
+    "error": "خطأ",
+    "success": "نجح",
+    "requestQuote": "طلب عرض سعر",
+    "downloadBrochure": "تحميل الكتيب",
+    "requestConsultation": "طلب استشارة"
+  },
+  "home": {
+    "hero": {
+      "title": "تغذية المستقبل، تعزيز التقدم بالنفط والغاز",
+      "description": "مزود رائد ومبتكر لحلول معدات النفط والغاز المتطورة مع التفاني الثابت للتميز والابتكار في صناعة الطاقة.",
+      "viewProducts": "عرض المنتجات",
+      "getQuote": "احصل على عرض سعر"
+    },
+    "services": {
+      "title": "خدماتنا الأساسية",
+      "subtitle": "حلول شاملة لصناعة النفط والغاز"
+    },
+    "about": {
+      "title": "سنوات من التميز في الصناعة",
+      "description": "تخدم شركة ويلهيد إكويبمنت إنجينيرز المحدودة صناعة النفط والغاز بحلول مبتكرة وجودة لا تتنازل عنها.",
+      "learnAboutUs": "تعرف علينا"
+    },
+    "clients": {
+      "title": "موثوق به من قبل قادة الصناعة",
+      "subtitle": "خدمة شركات النفط والغاز الكبرى في جميع أنحاء العالم"
+    },
+    "cta": {
+      "title": "هل أنت مستعد للبدء؟",
+      "description": "اتصل بنا اليوم للحصول على عرض سعر مخصص لمشروعك القادم",
+      "requestQuote": "طلب عرض سعر"
+    }
+  },
+  "about": {
+    "title": "حولنا",
+    "mission": "مهمتنا",
+    "vision": "رؤيتنا",
+    "values": "قيمنا",
+    "certifications": "الشهادات"
+  },
+  "products": {
+    "title": "المنتجات",
+    "allProducts": "جميع المنتجات",
+    "categories": "الفئات",
+    "specifications": "المواصفات"
+  },
+  "services": {
+    "title": "الخدمات",
+    "allServices": "جميع الخدمات",
+    "serviceOverview": "نظرة عامة على الخدمة",
+    "processTimeline": "العملية والجدول الزمني",
+    "equipmentTools": "المعدات والأدوات"
+  },
+  "careers": {
+    "title": "الوظائف",
+    "applyNow": "تقدم الآن",
+    "submitApplication": "تقديم الطلب",
+    "contactHR": "اتصل بالموارد البشرية",
+    "lifeAtWellhead": "الحياة في ويلهيد"
+  },
+  "certifications": {
+    "title": "الشهادات",
+    "ourCommitment": "التزامنا بالتميز"
+  },
+  "contact": {
+    "title": "اتصل بنا",
+    "getInTouch": "تواصل معنا",
+    "sendMessage": "إرسال رسالة",
+    "officeLocations": "مواقع المكاتب"
+  },
+  "footer": {
+    "quickLinks": "روابط سريعة",
+    "contactInfo": "معلومات الاتصال",
+    "followUs": "تابعنا",
+    "allRightsReserved": "جميع الحقوق محفوظة."
+  }
+}

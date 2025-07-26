@@ -1,0 +1,371 @@
+[
+  {
+    "id": "surface-welltest-unit",
+    "title": "Surface Welltest Unit",
+    "slug": "surface-welltest-unit",
+    "description": "Complete surface welltest units for well evaluation and production testing operations.",
+    "longDescription": "We offer integrated well testing in the exploration, appraisal and development phases of oil and gas wells. With almost 1 decades of experience coupled with state of the art equipment and technical expertise, our aim is to provide precise testing results. Clients avail our services for extended well tests, leading to early production facilities that allow them a force multiplier, further monetising their exploration wells in the shortest of time.",
+    "icon": "🔧",
+    "images": ["/assets/images/services-equipment.webp"],
+    "features": [
+      {
+        "title": "Integrated Testing",
+        "description": "Complete well testing solutions for exploration, appraisal and development phases",
+        "icon": "⚙️"
+      },
+      {
+        "title": "State-of-the-art Equipment",
+        "description": "Advanced equipment compliant with global standards including CE/PED, ASME, API, GOST",
+        "icon": "🏭"
+      },
+      {
+        "title": "Precise Results",
+        "description": "Accurate testing results with almost 1 decade of experience and technical expertise",
+        "icon": "📊"
+      },
+      {
+        "title": "Early Production",
+        "description": "Extended well tests leading to early production facilities for quick monetization",
+        "icon": "⚡"
+      }
+    ],
+    "processes": [
+      {
+        "step": 1,
+        "title": "Well Assessment",
+        "description": "Initial evaluation of well conditions and testing requirements",
+        "duration": "1-2 days"
+      },
+      {
+        "step": 2,
+        "title": "Equipment Setup",
+        "description": "Installation and configuration of surface welltest equipment",
+        "duration": "2-3 days"
+      },
+      {
+        "step": 3,
+        "title": "Testing Operations",
+        "description": "Execution of well testing procedures and data collection",
+        "duration": "5-30 days"
+      },
+      {
+        "step": 4,
+        "title": "Data Analysis",
+        "description": "Comprehensive analysis of test results and reporting",
+        "duration": "3-5 days"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "SSV (Surface Safety Valve)",
+        "description": "Hydraulically actuated Fail-Safe gate Valve for Testing oil and gas wells with high flow rates, high pressure, or the presence of H2S.",
+        "specifications": {
+          "Size": "3in",
+          "Rating": "10,000 PSI",
+          "Connection": "3\" 1502 H/U",
+          "Design Code": "API-6A",
+          "Material": "A-106 Gr B, AISI 4130",
+          "NACE": "Yes (As per NACE MR-0175)"
+        }
+      },
+      {
+        "name": "Three Phase Separator",
+        "description": "Instrumented vessel that separates well effluent into three phases—oil, gas, and water—for well testing.",
+        "specifications": {
+          "Phase": "3 Phase Horizontal",
+          "Gas Flow": "5 to 60 MMSCFD",
+          "Liquid Flow Rate": "16000 BPD",
+          "Test Pressure": "2150 PSI",
+          "Design Code": "ASME Sec VIII Div-1"
+        }
+      },
+      {
+        "name": "Choke Manifold",
+        "description": "Used to control fluid from the well by reducing flowing pressure and achieving constant flow rate.",
+        "specifications": {
+          "Size": "3in",
+          "Rating": "15,000 PSI",
+          "Design Code": "API 6A, PSL-3",
+          "Material": "AISI4130",
+          "Adjustable Choke": "1/8\" to 2\"",
+          "Lining": "Tungsten Carbide lined"
+        }
+      }
+    ],
+    "certifications": ["API-6A", "ASME Sec VIII Div-1", "NACE MR-0175"],
+    "caseStudies": [],
+    "featured": true,
+    "order": 1,
+    "category": "Testing Services",
+    "tags": ["well testing", "surface equipment", "oil and gas"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "sand-management",
+    "title": "Sand Management and Flowback Packages",
+    "slug": "sand-management",
+    "description": "Comprehensive sand management solutions for well completion and production operations.",
+    "longDescription": "WHE provides Sand Management System with 10K & 5K rated equipment with multiple sand screen options including 100 Micron, 150 Micron, 200 Micron, and 400 Micron configurations. Our comprehensive range includes dual pot sand filters, sand catchers, separators, and sacrificial choke manifolds.",
+    "icon": "⚙️",
+    "images": ["/assets/images/gallery-1.webp"],
+    "features": [
+      {
+        "title": "Multiple Screen Options",
+        "description": "100, 150, 200, and 400 Micron sand screen configurations available",
+        "icon": "🔍"
+      },
+      {
+        "title": "High Pressure Rating",
+        "description": "10K & 5K rated equipment for demanding applications",
+        "icon": "💪"
+      },
+      {
+        "title": "Complete System",
+        "description": "Comprehensive range from catchers to manifolds and piping",
+        "icon": "🔧"
+      },
+      {
+        "title": "Proven Efficiency",
+        "description": "80-90% sand capture efficiency in initial separation stages",
+        "icon": "✅"
+      }
+    ],
+    "processes": [
+      {
+        "step": 1,
+        "title": "System Design",
+        "description": "Custom sand management system design based on well conditions",
+        "duration": "3-5 days"
+      },
+      {
+        "step": 2,
+        "title": "Equipment Manufacturing",
+        "description": "Fabrication of sand management equipment to specifications",
+        "duration": "4-8 weeks"
+      },
+      {
+        "step": 3,
+        "title": "Installation & Commissioning",
+        "description": "On-site installation and system commissioning",
+        "duration": "1-2 weeks"
+      },
+      {
+        "step": 4,
+        "title": "Operations Support",
+        "description": "Ongoing operational support and maintenance services",
+        "duration": "Ongoing"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Sand Catcher",
+        "description": "Required to capture large amounts of sand during well opening or sluggish flow. Captures 80-90% of sand particles in initial separation stages.",
+        "specifications": {
+          "Max Working Pressure": "10,000 PSI (69 MPa)",
+          "Flow Rate": "Gas 60 MMSCFD",
+          "Service": "H2S NACE MR-0175",
+          "Sand Volume Capacity": "103 liter",
+          "Vessel Design": "API-6A, ASME-SC-VIII Div-2"
+        }
+      },
+      {
+        "name": "Dual Pot Sand Filter",
+        "description": "Used to remove sand and solid particles from effluent to prevent erosion of downstream equipment.",
+        "specifications": {
+          "Working Pressure": "15,000 PSI",
+          "Filter Mesh Size": "200 Microns",
+          "Holding Capacity": "70 litre per vessel",
+          "Service": "H2S (Sour Service)",
+          "MOC": "Forged AISI 4130"
+        }
+      }
+    ],
+    "certifications": ["API-6A", "ASME-SC-VIII Div-2", "NACE MR-0175"],
+    "caseStudies": [],
+    "featured": true,
+    "order": 2,
+    "category": "Sand Management",
+    "tags": ["sand management", "well completion", "flowback"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "engineering-fabrication",
+    "title": "Engineering and Fabrication Services",
+    "slug": "engineering-fabrication",
+    "description": "Complete engineering design and fabrication services for custom equipment.",
+    "longDescription": "We provide comprehensive engineering solutions including static equipment design using advanced software, structural design and analysis, complete fabrication services, and turnkey project solutions. Our facilities include a 15,000 sq. ft. fabrication plant with 10 ton EOT crane and 50,000 sq. ft. open storage area.",
+    "icon": "🏗️",
+    "images": ["/assets/images/hero-equipment2.webp"],
+    "features": [
+      {
+        "title": "Advanced Design Software",
+        "description": "PV Elite, HTRI, COMPRESS, STAAD Pro, and ANSYS for comprehensive design",
+        "icon": "💻"
+      },
+      {
+        "title": "Complete Fabrication",
+        "description": "15,000 sq. ft. plant with 10 ton EOT crane and 64 skilled welders",
+        "icon": "🏭"
+      },
+      {
+        "title": "Turnkey Solutions",
+        "description": "Complete project solutions from design to commissioning",
+        "icon": "🔑"
+      },
+      {
+        "title": "Quality Assurance",
+        "description": "Hydro test facility up to 1500 kg/cm² and comprehensive QC systems",
+        "icon": "✅"
+      }
+    ],
+    "processes": [
+      {
+        "step": 1,
+        "title": "Design Engineering",
+        "description": "Detailed engineering design using advanced software tools",
+        "duration": "2-4 weeks"
+      },
+      {
+        "step": 2,
+        "title": "Fabrication",
+        "description": "Manufacturing using state-of-the-art facilities and skilled workforce",
+        "duration": "4-12 weeks"
+      },
+      {
+        "step": 3,
+        "title": "Testing & QC",
+        "description": "Comprehensive testing including hydro testing up to 1500 kg/cm²",
+        "duration": "1-2 weeks"
+      },
+      {
+        "step": 4,
+        "title": "Installation",
+        "description": "On-site installation and commissioning services",
+        "duration": "1-4 weeks"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Fabrication Facilities",
+        "description": "State-of-the-art fabrication plant with comprehensive capabilities",
+        "specifications": {
+          "Plant Area": "15,000 sq. ft.",
+          "Crane Capacity": "10 ton EOT crane",
+          "Storage Area": "50,000 sq. ft.",
+          "Workforce": "64 welders and fabricators",
+          "Welding Machines": "15+ in-house machines"
+        }
+      },
+      {
+        "name": "Testing Capabilities",
+        "description": "Comprehensive testing and quality control facilities",
+        "specifications": {
+          "Hydro Test": "Up to 1500 kg/cm²",
+          "Mobile Crane": "Up to 45 tons capacity",
+          "Production Capacity": "50 ton/month PV/HE/Tanks",
+          "Max Diameter": "3.5 mtr",
+          "Max Length": "13 mtr"
+        }
+      }
+    ],
+    "certifications": ["ASME", "API", "ISO 9001"],
+    "caseStudies": [],
+    "featured": true,
+    "order": 3,
+    "category": "Engineering Services",
+    "tags": ["engineering", "fabrication", "design", "manufacturing"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "flow-line-equipment",
+    "title": "Flow Line Equipment",
+    "slug": "flow-line-equipment",
+    "description": "Complete flow line equipment range for manufacturing, repair, rental and supply according to ASME and API guidelines.",
+    "longDescription": "We are dealing with product development, manufacturing, service, repair, reverse engineering and re-manufacturing. Our service division provides retrofit and refurbishing of all upstream, midstream and downstream products according to ASME and API guidelines.",
+    "icon": "🔧",
+    "images": ["/assets/images/flowline-equipment-1.webp"],
+    "features": [
+      {
+        "title": "Complete Product Range",
+        "description": "Valves, chokes, flanges, spools and specialized components",
+        "icon": "🔧"
+      },
+      {
+        "title": "API Compliance",
+        "description": "All products manufactured according to API-6A standards",
+        "icon": "📋"
+      },
+      {
+        "title": "Service Capabilities",
+        "description": "Manufacturing, repair, rental, and reverse engineering services",
+        "icon": "⚙️"
+      },
+      {
+        "title": "Pressure Ratings",
+        "description": "Equipment rated from 2000 PSI to 15000 PSI",
+        "icon": "💪"
+      }
+    ],
+    "processes": [
+      {
+        "step": 1,
+        "title": "Requirements Analysis",
+        "description": "Detailed analysis of customer requirements and specifications",
+        "duration": "1-2 days"
+      },
+      {
+        "step": 2,
+        "title": "Design & Engineering",
+        "description": "Product design and engineering according to API standards",
+        "duration": "1-2 weeks"
+      },
+      {
+        "step": 3,
+        "title": "Manufacturing",
+        "description": "Precision manufacturing using advanced machining capabilities",
+        "duration": "2-8 weeks"
+      },
+      {
+        "step": 4,
+        "title": "Testing & Delivery",
+        "description": "Quality testing and timely delivery to customer site",
+        "duration": "1 week"
+      }
+    ],
+    "equipment": [
+      {
+        "name": "Gate Valves",
+        "description": "High-pressure gate valves designed and manufactured as per API-6A standards",
+        "specifications": {
+          "Size": "2-1/16\" to 4-1/16\"",
+          "Pressure Rating": "5000 PSI to 15000 PSI",
+          "Service": "Sour, H2S or Standard",
+          "Ring Groove": "SS or Inconel-625 Lined",
+          "Design": "As per API-6A"
+        }
+      },
+      {
+        "name": "Choke Valves",
+        "description": "Positive, fixed bean, and adjustable choke valves for precise flow control",
+        "specifications": {
+          "Size": "2-1/16\" to 3-1/16\"",
+          "Pressure Rating": "5000 PSI to 15000 PSI",
+          "Types": "Positive/Fixed Bean, Adjustable",
+          "End Connections": "Flanged and Hammer Union",
+          "Design": "As per API-6A"
+        }
+      }
+    ],
+    "certifications": ["API-6A", "ASME", "ANSI"],
+    "caseStudies": [],
+    "featured": false,
+    "order": 4,
+    "category": "Equipment Supply",
+    "tags": ["flow line", "valves", "chokes", "flanges"],
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-01-01T00:00:00Z"
+  }
+]

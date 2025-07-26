@@ -1,0 +1,98 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "products": "Products",
+    "services": "Services",
+    "certification": "Certification",
+    "careers": "Careers",
+    "hsePolicy": "HSE Policy",
+    "contact": "Contact"
+  },
+  "common": {
+    "readMore": "Read More",
+    "learnMore": "Learn More",
+    "getQuote": "Get Quote",
+    "contactUs": "Contact Us",
+    "viewAll": "View All",
+    "download": "Download",
+    "apply": "Apply",
+    "submit": "Submit",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "requestQuote": "Request Quote",
+    "downloadBrochure": "Download Brochure",
+    "requestConsultation": "Request Consultation"
+  },
+  "home": {
+    "hero": {
+      "title": "Fueling the Future, Powering Progress with Oil and Gas",
+      "description": "A leading and innovative provider of cutting-edge oil and gas equipment solutions with unwavering dedication to excellence and innovation in the energy industry.",
+      "viewProducts": "View Products",
+      "getQuote": "Get Quote"
+    },
+    "services": {
+      "title": "Our Core Services",
+      "subtitle": "Comprehensive solutions for the oil and gas industry"
+    },
+    "about": {
+      "title": "Years of Industry Excellence",
+      "description": "Wellhead Equipment Engineers Pvt. Ltd. has been serving the oil and gas industry with innovative solutions and uncompromising quality.",
+      "learnAboutUs": "Learn About Us"
+    },
+    "clients": {
+      "title": "Trusted by Industry Leaders",
+      "subtitle": "Serving major oil and gas companies worldwide"
+    },
+    "cta": {
+      "title": "Ready to Get Started?",
+      "description": "Contact us today for a custom quote on your next project",
+      "requestQuote": "Request Quote"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "values": "Our Values",
+    "certifications": "Certifications"
+  },
+  "products": {
+    "title": "Products",
+    "allProducts": "All Products",
+    "categories": "Categories",
+    "specifications": "Specifications"
+  },
+  "services": {
+    "title": "Services",
+    "allServices": "All Services",
+    "serviceOverview": "Service Overview",
+    "processTimeline": "Process & Timeline",
+    "equipmentTools": "Equipment & Tools"
+  },
+  "careers": {
+    "title": "Careers",
+    "applyNow": "Apply Now",
+    "submitApplication": "Submit Application",
+    "contactHR": "Contact HR",
+    "lifeAtWellhead": "Life at Wellhead"
+  },
+  "certifications": {
+    "title": "Certifications",
+    "ourCommitment": "Our Commitment to Excellence"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "getInTouch": "Get in Touch",
+    "sendMessage": "Send Message",
+    "officeLocations": "Office Locations"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactInfo": "Contact Information",
+    "followUs": "Follow Us",
+    "allRightsReserved": "All rights reserved."
+  }
+}
