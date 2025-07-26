@@ -84,7 +84,11 @@ const Footer: React.FC = () => {
                   Careers
                 </Link>
               </li>
-
+              <li style={{ marginBottom: '8px' }}>
+                <Link to="/hse-policy" style={{ color: '#d1d5db', textDecoration: 'none' }}>
+                  HSE Policy
+                </Link>
+              </li>
               <li style={{ marginBottom: '8px' }}>
                 <Link to="/contact" style={{ color: '#d1d5db', textDecoration: 'none' }}>
                   Contact
