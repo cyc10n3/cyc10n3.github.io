@@ -120,14 +120,7 @@ const AboutPage: React.FC = () => {
           </div>
         </div>
 
-        {/* Company Image */}
-        <div className="text-center mb-16">
-          <img 
-            src="/assets/images/about-company.png" 
-            alt="Wellhead Equipment Engineers Company"
-            className="mx-auto rounded-lg shadow-lg max-w-4xl w-full"
-          />
-        </div>
+
       </div>
     </div>
   );
