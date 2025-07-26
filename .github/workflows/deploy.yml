@@ -3,8 +3,6 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [ main, master ]
-  pull_request:
-    branches: [ main, master ]
 
 jobs:
   build-and-deploy:
@@ -23,18 +21,14 @@ jobs:
       uses: actions/setup-node@v4
       with:
         node-version: '18'
-        cache: 'npm'
-        cache-dependency-path: wellhead-modern/package-lock.json
 
     - name: Install dependencies
-      run: |
-        cd wellhead-modern
-        npm ci
+      working-directory: wellhead-modern
+      run: npm ci
 
     - name: Build
-      run: |
-        cd wellhead-modern
-        NODE_ENV=production npm run build
+      working-directory: wellhead-modern
+      run: NODE_ENV=production npm run build
 
     - name: Setup Pages
       uses: actions/configure-pages@v4
