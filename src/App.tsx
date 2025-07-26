@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import { LanguageProvider } from './contexts/LanguageContext';
 import Header from './components/layout/Header';
 import Footer from './components/layout/Footer';
+import ScrollToTop from './components/common/ScrollToTop';
 import HomePage from './pages/HomePage';
 import AboutPage from './pages/AboutPage';
 import ProductsPage from './pages/ProductsPage';
@@ -17,6 +18,7 @@ const App: React.FC = () => {
   return (
     <LanguageProvider>
       <div className="min-h-screen bg-white">
+        <ScrollToTop />
         <Header />
         <main id="main-content" className="flex-1">
           <Routes>
